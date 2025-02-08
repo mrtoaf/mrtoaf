@@ -1,3 +1,4 @@
 hello it's @mrtoaf
 
-tufts cs 2024 / neu phd cybersecurity
+former tufts cs 2024
+current neu phd student in cybersecurity
